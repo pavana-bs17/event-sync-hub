@@ -1,0 +1,15 @@
+{
+    "name": "event-sync-hub-backend",
+    "version": "1.0.0",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1",
+      "body-parser": "^1.19.0",
+      "date-fns": "^2.25.0",
+      "querystring": "^0.2.1"
+    }
+  }
+  
